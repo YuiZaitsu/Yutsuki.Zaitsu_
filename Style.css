@@ -1,0 +1,121 @@
+body{
+margin:0;
+padding-top:px;
+}
+.Profile{
+width:175px;
+border-radius:30%;
+margin-bottom:50px;
+padding-top: 60px;
+}
+h1{
+font-size:50;
+line-height:1.2;
+font-weight:300;
+font-family: monospace;
+}
+#Welcome{
+height: 800px;
+color: ;
+left: 0;
+right: 0;
+bottom: 0;
+top: 0;
+color:whitesmoke;
+background-color:white;
+display: table;
+height: 100%;
+width: 100%;
+}
+.Inner{
+display: table-cell;
+text-align: center;
+vertical-align: middle;
+}
+#Bio{
+padding: 50px;
+text-align: center;
+font-size: 42px;
+}
+p{
+font-size: 20px;
+margin: 25px auto;
+max-width: 550px;
+line-height: 1.3;
+}
+.Menu{
+position: fixed;
+background-color: skyblue;
+width:100%;
+top:0px;
+z-index: 10;
+margin-top: 0px;
+}
+.Link{
+float: left;
+color:white;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 9px;
+padding-right: 9px;
+font-family: monospace;
+font-size:20px;
+list-style:none;
+}
+.Link:hover{
+font-size: 30px;
+}
+.Link a{
+text-decoration: none;
+color: white;
+}
+#Videos{
+text-align: center;
+background-color: white;
+}
+#Maps{
+text-align: center;
+}
+#Discription{
+text-align: center;
+background-color: white;
+}
+h1{
+font-size: 30px;
+text-align: center;
+}
+h1{
+text-align: center;
+}
+img{
+align-content: center;
+width: 300px;
+}
+#Discription {
+color:darkmagenta;
+font-size: 30px;
+text-decoration: none;
+}
+
+.travel_mainDiv
+{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  border: 1px solid #c7c7c7;
+}
+
+.travel_mainDiv img
+{
+  width: 100%;
+  height:300px;
+} 
+
+.travel_mainDiv hr
+{
+    width: 100%; 
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+margin-left: 20px;
